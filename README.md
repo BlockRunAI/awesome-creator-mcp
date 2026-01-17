@@ -16,6 +16,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 - [Social Media](#social-media)
 - [3D & Animation](#3d--animation)
 - [Browser Automation](#browser-automation)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -68,6 +69,30 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 |------|-------------|---------|-------|
 | [Chrome MCP](https://github.com/hangwin/mcp-chrome) | Chrome browser automation via extension | Free | ![GitHub stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat) |
 | [Browser Use MCP](https://github.com/kontext-dev/browser-use-mcp-server) | Browse the web from AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/kontext-dev/browser-use-mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Video & Media
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) | Video editing MCP server | Free | ![stars](https://img.shields.io/github/stars/Aditya2755/video-edit-mcp?style=flat) | *[@Aditya2755](https://github.com/Aditya2755)* |
+
+### Image & Design
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) | Pixelle image processing | Free | ![stars](https://img.shields.io/github/stars/AIDC-AI/Pixelle-MCP?style=flat) | *[@puke3615](https://github.com/puke3615)* |
+
+### Music & Audio
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [spotify-bulk-actions-mcp](https://github.com/khglynn/spotify-bulk-actions-mcp) | Spotify bulk actions | Free | ![stars](https://img.shields.io/github/stars/khglynn/spotify-bulk-actions-mcp?style=flat) | *[@khglynn](https://github.com/khglynn)* |
 
 ---
 
