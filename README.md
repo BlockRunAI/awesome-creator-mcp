@@ -87,6 +87,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) | Pixelle image processing | Free | ![stars](https://img.shields.io/github/stars/AIDC-AI/Pixelle-MCP?style=flat) | *[@puke3615](https://github.com/puke3615)* |
+| [page-design-guide-mcp](https://github.com/chihebnabil/page-design-guide-mcp) | Page design guide | Free | ![stars](https://img.shields.io/github/stars/chihebnabil/page-design-guide-mcp?style=flat) | *[@chihebnabil](https://github.com/chihebnabil)* |
 
 ### Music & Audio
 
