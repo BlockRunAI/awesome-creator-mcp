@@ -72,6 +72,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Figma MCP](https://github.com/nicobytes/figma-mcp) | Figma design API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/nicobytes/figma-mcp?style=flat) |
+| [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layout for AI coding agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat) |
 | [Canva MCP](https://github.com/canva/mcp-server) | Canva design platform | Freemium | ![GitHub stars](https://img.shields.io/github/stars/canva/mcp-server?style=flat) |
 | [Adobe Creative Cloud MCP](https://github.com/adobe/cc-mcp) | Adobe CC integration | Requires license | ![GitHub stars](https://img.shields.io/github/stars/adobe/cc-mcp?style=flat) |
 | [Sketch MCP](https://github.com/sketch/mcp-server) | Sketch design tool | Requires license | ![GitHub stars](https://img.shields.io/github/stars/sketch/mcp-server?style=flat) |
@@ -139,6 +140,8 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Blender MCP](https://github.com/blender/mcp-server) | Blender 3D automation | Free | ![GitHub stars](https://img.shields.io/github/stars/blender/mcp-server?style=flat) |
+| [Blender MCP Server](https://github.com/ahujasid/blender-mcp) | Blender 3D integration | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat) |
+| [Manim MCP](https://github.com/abhiemj/manim-mcp-server) | Math animation videos | Free | ![GitHub stars](https://img.shields.io/github/stars/abhiemj/manim-mcp-server?style=flat) |
 | [Unity MCP](https://github.com/unity/mcp-server) | Unity game engine | Freemium | ![GitHub stars](https://img.shields.io/github/stars/unity/mcp-server?style=flat) |
 | [Unreal Engine MCP](https://github.com/epicgames/unreal-mcp) | Unreal Engine | Free | ![GitHub stars](https://img.shields.io/github/stars/epicgames/unreal-mcp?style=flat) |
 | [Spline MCP](https://github.com/spline/mcp-server) | 3D web design | Freemium | ![GitHub stars](https://img.shields.io/github/stars/spline/mcp-server?style=flat) |
