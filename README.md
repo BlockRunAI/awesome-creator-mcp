@@ -11,8 +11,11 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 ## Contents
 
 - [Design Tools](#design-tools)
+- [Video & Media](#video--media)
+- [Document Creation](#document-creation)
 - [Social Media](#social-media)
 - [3D & Animation](#3d--animation)
+- [Browser Automation](#browser-automation)
 
 ---
 
@@ -24,11 +27,29 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 
 ---
 
+## Video & Media
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [YouTube MCP](https://github.com/ZubeidHendricks/youtube-mcp-server) | YouTube API for video management and analytics | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ZubeidHendricks/youtube-mcp-server?style=flat) |
+
+---
+
+## Document Creation
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Word MCP](https://github.com/GongRzhe/Office-Word-MCP-Server) | Create and manipulate Microsoft Word documents | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-Word-MCP-Server?style=flat) |
+| [PowerPoint MCP](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | Create and edit PowerPoint presentations | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-PowerPoint-MCP-Server?style=flat) |
+
+---
+
 ## Social Media
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Twitter/X MCP](https://github.com/vidhupv/x-mcp) | Twitter/X posting | Free | ![GitHub stars](https://img.shields.io/github/stars/vidhupv/x-mcp?style=flat) |
+| [LinkedIn MCP](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn profile scraping and job search | Requires account | ![GitHub stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat) |
 
 ---
 
@@ -38,6 +59,15 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 |------|-------------|---------|-------|
 | [Blender MCP](https://github.com/ahujasid/blender-mcp) | Blender 3D integration | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat) |
 | [Manim MCP](https://github.com/abhiemj/manim-mcp-server) | Math animation videos | Free | ![GitHub stars](https://img.shields.io/github/stars/abhiemj/manim-mcp-server?style=flat) |
+
+---
+
+## Browser Automation
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Chrome MCP](https://github.com/hangwin/mcp-chrome) | Chrome browser automation via extension | Free | ![GitHub stars](https://img.shields.io/github/stars/hangwin/mcp-chrome?style=flat) |
+| [Browser Use MCP](https://github.com/kontext-dev/browser-use-mcp-server) | Browse the web from AI assistants | Free | ![GitHub stars](https://img.shields.io/github/stars/kontext-dev/browser-use-mcp-server?style=flat) |
 
 ---
 
