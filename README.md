@@ -42,6 +42,8 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 |------|-------------|---------|-------|
 | [Word MCP](https://github.com/GongRzhe/Office-Word-MCP-Server) | Create and manipulate Microsoft Word documents | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-Word-MCP-Server?style=flat) |
 | [PowerPoint MCP](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | Create and edit PowerPoint presentations | Free | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Office-PowerPoint-MCP-Server?style=flat) |
+| [PPTAgent](https://github.com/icip-cas/PPTAgent) | Autonomous framework for PowerPoint generation | Free | ![GitHub stars](https://img.shields.io/github/stars/icip-cas/PPTAgent?style=flat) |
+| [Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | Extract text and metadata from 50+ document formats | Free | ![GitHub stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat) |
 
 ---
 
