@@ -12,9 +12,11 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 
 - [Design Tools](#design-tools)
 - [Video & Media](#video--media)
+- [Audio & Music](#audio--music)
 - [Document Creation](#document-creation)
 - [Social Media](#social-media)
 - [3D & Animation](#3d--animation)
+- [Image Generation](#image-generation)
 - [Browser Automation](#browser-automation)
 - [Community Contributions](#community-contributions) 🆕
 
@@ -34,6 +36,20 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [YouTube MCP](https://github.com/ZubeidHendricks/youtube-mcp-server) | YouTube API for video management and analytics | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ZubeidHendricks/youtube-mcp-server?style=flat) |
+| [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) | Video editing, color grading via natural language | Free | ![GitHub stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=flat) |
+| [FFmpeg MCP](https://github.com/video-creator/ffmpeg-mcp) | Video search, trim, stitch, overlay, concat | Free | ![GitHub stars](https://img.shields.io/github/stars/video-creator/ffmpeg-mcp?style=flat) |
+| [yt-dlp MCP](https://github.com/kevinwatt/yt-dlp-mcp) | Video/audio download and transcription | Free | ![GitHub stars](https://img.shields.io/github/stars/kevinwatt/yt-dlp-mcp?style=flat) |
+
+---
+
+## Audio & Music
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) | Official text-to-speech and voice cloning | Freemium | ![GitHub stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=flat) |
+| [Ableton Live MCP](https://github.com/xiaolaa2/ableton-copilot-mcp) | MIDI editing, track control, audio recording | Free | ![GitHub stars](https://img.shields.io/github/stars/xiaolaa2/ableton-copilot-mcp?style=flat) |
+| [Podcast Generator MCP](https://github.com/adamanz/podcast-generator-mcp) | AI podcast creation with different voices | Free | ![GitHub stars](https://img.shields.io/github/stars/adamanz/podcast-generator-mcp?style=flat) |
+| [MiniMax Music MCP](https://github.com/falahgs/mcp-minimax-music-server) | AI music generation | Freemium | ![GitHub stars](https://img.shields.io/github/stars/falahgs/mcp-minimax-music-server?style=flat) |
 
 ---
 
@@ -63,6 +79,15 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 |------|-------------|---------|-------|
 | [Blender MCP](https://github.com/ahujasid/blender-mcp) | Blender 3D integration | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat) |
 | [Manim MCP](https://github.com/abhiemj/manim-mcp-server) | Math animation videos | Free | ![GitHub stars](https://img.shields.io/github/stars/abhiemj/manim-mcp-server?style=flat) |
+
+---
+
+## Image Generation
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Unsplash MCP](https://github.com/hellokaton/unsplash-mcp-server) | High-quality image search from Unsplash | Free | ![GitHub stars](https://img.shields.io/github/stars/hellokaton/unsplash-mcp-server?style=flat) |
+| [Image Generation MCP](https://github.com/GongRzhe/Image-Generation-MCP-Server) | Image generation via Replicate Flux | Freemium | ![GitHub stars](https://img.shields.io/github/stars/GongRzhe/Image-Generation-MCP-Server?style=flat) |
 
 ---
 
