@@ -27,7 +27,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Figma layout for AI coding agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat) |
-| [Shadcn UI MCP](https://github.com/AidenYuanDev/shadcn-ui-mcp) | shadcn/ui component library for AI coding | Free | ![GitHub stars](https://img.shields.io/github/stars/AidenYuanDev/shadcn-ui-mcp?style=flat) |
+| [Shadcn UI MCP](https://github.com/Jpisnice/shadcn-ui-mcp-server) | shadcn/ui components for React, Svelte, Vue, React Native | Free | ![GitHub stars](https://img.shields.io/github/stars/Jpisnice/shadcn-ui-mcp-server?style=flat) |
 
 ---
 
