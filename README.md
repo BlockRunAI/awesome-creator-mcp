@@ -47,6 +47,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) | Official text-to-speech and voice cloning | Freemium | ![GitHub stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=flat) |
+| [Ableton MCP](https://github.com/ahujasid/ableton-mcp) | Ableton Live integration for AI | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/ableton-mcp?style=flat) |
 | [Ableton Live MCP](https://github.com/xiaolaa2/ableton-copilot-mcp) | MIDI editing, track control, audio recording | Free | ![GitHub stars](https://img.shields.io/github/stars/xiaolaa2/ableton-copilot-mcp?style=flat) |
 | [Podcast Generator MCP](https://github.com/adamanz/podcast-generator-mcp) | AI podcast creation with different voices | Free | ![GitHub stars](https://img.shields.io/github/stars/adamanz/podcast-generator-mcp?style=flat) |
 | [MiniMax Music MCP](https://github.com/falahgs/mcp-minimax-music-server) | AI music generation | Freemium | ![GitHub stars](https://img.shields.io/github/stars/falahgs/mcp-minimax-music-server?style=flat) |
