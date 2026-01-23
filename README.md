@@ -39,6 +39,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) | Video editing, color grading via natural language | Free | ![GitHub stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=flat) |
 | [FFmpeg MCP](https://github.com/video-creator/ffmpeg-mcp) | Video search, trim, stitch, overlay, concat | Free | ![GitHub stars](https://img.shields.io/github/stars/video-creator/ffmpeg-mcp?style=flat) |
 | [yt-dlp MCP](https://github.com/kevinwatt/yt-dlp-mcp) | Video/audio download and transcription | Free | ![GitHub stars](https://img.shields.io/github/stars/kevinwatt/yt-dlp-mcp?style=flat) |
+| [YouTube Transcript MCP](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) | Fetch YouTube subtitles and transcripts | Free | ![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=flat) |
 
 ---
 
