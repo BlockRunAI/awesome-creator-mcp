@@ -40,6 +40,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | [FFmpeg MCP](https://github.com/video-creator/ffmpeg-mcp) | Video search, trim, stitch, overlay, concat | Free | ![GitHub stars](https://img.shields.io/github/stars/video-creator/ffmpeg-mcp?style=flat) |
 | [yt-dlp MCP](https://github.com/kevinwatt/yt-dlp-mcp) | Video/audio download and transcription | Free | ![GitHub stars](https://img.shields.io/github/stars/kevinwatt/yt-dlp-mcp?style=flat) |
 | [YouTube Transcript MCP](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) | Fetch YouTube subtitles and transcripts | Free | ![GitHub stars](https://img.shields.io/github/stars/kimtaeyoon83/mcp-server-youtube-transcript?style=flat) |
+| [MCP YouTube](https://github.com/anaisbetts/mcp-youtube) | YouTube MCP server | Free | ![GitHub stars](https://img.shields.io/github/stars/anaisbetts/mcp-youtube?style=flat) |
 
 ---
 
@@ -48,6 +49,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) | Official text-to-speech and voice cloning | Freemium | ![GitHub stars](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=flat) |
+| [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | TTS, image gen, video gen from MiniMax | Freemium | ![GitHub stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-MCP?style=flat) |
 | [Ableton MCP](https://github.com/ahujasid/ableton-mcp) | Ableton Live integration for AI | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/ableton-mcp?style=flat) |
 | [Ableton Live MCP](https://github.com/xiaolaa2/ableton-copilot-mcp) | MIDI editing, track control, audio recording | Free | ![GitHub stars](https://img.shields.io/github/stars/xiaolaa2/ableton-copilot-mcp?style=flat) |
 | [Podcast Generator MCP](https://github.com/adamanz/podcast-generator-mcp) | AI podcast creation with different voices | Free | ![GitHub stars](https://img.shields.io/github/stars/adamanz/podcast-generator-mcp?style=flat) |
@@ -80,6 +82,7 @@ A curated list of MCP (Model Context Protocol) servers for content creators, des
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Blender MCP](https://github.com/ahujasid/blender-mcp) | Blender 3D integration | Free | ![GitHub stars](https://img.shields.io/github/stars/ahujasid/blender-mcp?style=flat) |
+| [Godot MCP](https://github.com/Coding-Solo/godot-mcp) | Godot game engine integration | Free | ![GitHub stars](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=flat) |
 | [Manim MCP](https://github.com/abhiemj/manim-mcp-server) | Math animation videos | Free | ![GitHub stars](https://img.shields.io/github/stars/abhiemj/manim-mcp-server?style=flat) |
 
 ---
